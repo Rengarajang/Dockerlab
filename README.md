@@ -1,2 +1,2 @@
 dockerweb
-## Docker project for SWARM cluster#
+## Docker project for SWARM cluster setup#

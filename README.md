@@ -1,4 +1,4 @@
 dockerweb
 ## Docker project for SWARM cluster setup#
-# Swarm test#
+# Swarm Cluster#
 #with consul and interlock##

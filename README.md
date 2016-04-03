@@ -1,4 +1,4 @@
 dockerweb
 ## Docker project for SWARM cluster setup#
 # Swarm Cluster#
-#with consul and interlockvtesting #####
+#with consul Service Discovery and interlock #####
